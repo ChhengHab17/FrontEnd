@@ -4,7 +4,7 @@ import { Navigation_baar } from '../Components/navigation-bar/Navigation_baar'
 import { Nav_setting} from '../Components/navigation-bar/Nav_setting'
 import { Footer } from '../Components/footer/Footer'
 import { Setting_pf} from '../Components/setting/Setting_pf'
-import { Setting_btn} from '../Components/setting/setting_btn'
+import { Setting_btn} from '../Components/setting/Setting_btn'
 import { Change_info_popup } from '../Components/setting/Change_info_popup'
 import { useUser } from '../Components/context/UserProvider.jsx'
 import { useNavigate } from 'react-router-dom';
