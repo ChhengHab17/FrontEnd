@@ -8,7 +8,7 @@ import {
   ROMANCE_MOVIE,
   ACTION_MOVIE,
   TRENDING_MOVIE,
-} from "../Data/banner_data.js";
+} from "../data/banner_data.js";
 
 export const Banner = () => {
   const [slideIndex, setSlideIndex] = useState(0);
