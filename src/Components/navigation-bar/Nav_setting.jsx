@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../../assets/logo.png"
+import logo from "../../assets/Logo.png"
 import  {Link, useNavigate} from 'react-router-dom'
 import "./nav.css"
 import { Profile } from './Profile'
