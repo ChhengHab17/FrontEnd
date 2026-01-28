@@ -1,5 +1,5 @@
 "use client";
-import "./WatchList.css";
+import "./watchList.css";
 import { useUser } from "../context/UserProvider.jsx";
 
 export const handleAddToWatchlist = (movieToAdd, user, updateUser) => {
