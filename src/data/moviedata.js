@@ -48,7 +48,7 @@ import KungFu from "../assets/kung-fu-panda-4-he-poster.jpg";
 import InsideOut from "../assets/Inside-out2.jpeg";
 import Nemo from "../assets/Nemo.jpeg";
 import Spiderman from "../assets/Spiderman.jpg";
-import zootopia from "../assets/zootopia.jpg";
+import zootopia from "../assets/Zootopia.jpg";
 import lastest1 from "../assets/trending/latest1.jpg";
 import lastest2 from "../assets/trending/latest2.jpg";
 import lastest3 from "../assets/trending/latest3.jpg";
