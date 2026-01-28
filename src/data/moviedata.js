@@ -102,11 +102,11 @@ import the_apothecary_diaries from "../assets/anime-serie/the-apothecary-diaries
 import windbreaker from "../assets/anime-serie/wind-breaker.jpg";
 import A_Quiet_Place_Part_II from "../assets/horror-movies/A_Quiet_Place_Part2.jpeg";
 import A_Quiet_Place_day_one from "../assets/horror-movies/A_Quiet_Place-day_one.jpg";
-import annabelle from "../assets/horror-movies/annabelle.jpg";
+import annabelle from "../assets/horror-movies/Annabelle.jpg";
 import megan from "../assets/horror-movies/M3GAN_(2022).jpg";
 import theconjuring from "../assets/horror-movies/The_Conjuring.jpg";
-import thenun from "../assets/horror-movies/the_nun(2018).jpg";
-import alice_in_borderland from "../assets/horror-series/alice_in_borderland.jpeg";
+import thenun from "../assets/horror-movies/The_nun(2018).jpg";
+import alice_in_borderland from "../assets/horror-series/Alice_in_borderland.jpeg";
 import all_of_us_are_dead from "../assets/horror-series/All_of_Us_Are_Dead.jpeg";
 import chucky from "../assets/horror-series/Chucky.jpeg";
 import parasyte from "../assets/horror-series/Parasyte.jpeg";
